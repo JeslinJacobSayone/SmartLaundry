@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Laundry</string>
+    <string name="smart_laundry">Smart Laundry</string>
+    <string name="intro_one_description">This app can help you to keep track of all your clothes. You can add all your clothes in this app, send your clothes for different laundry, ironing centers and dry cleaning centers and this app will remind you about your valuable cloths</string>
+    <string name="into_one_title">Struggling to manage cloths ?</string>
+    <string name="into_two_title">Forgot to collect cloth from ironing center ?</string>
+</resources>
